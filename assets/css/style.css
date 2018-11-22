@@ -1,0 +1,24 @@
+#topic-form{
+    margin-top:40px;
+    display: inline-block;
+}
+#add-topic{
+    float:right;
+}
+
+#buttons-view{
+    margin-top:45px;
+}
+
+.topic{
+    margin:10px;
+}
+
+.topicImg {
+    display: inline-block;
+    margin: 30px;
+}
+
+body {
+    background: url(../images/free-background-patern/mosaic-background-1.jpg);
+}
