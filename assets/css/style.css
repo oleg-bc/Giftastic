@@ -21,4 +21,6 @@
 
 body {
     background: url(../images/free-background-patern/mosaic-background-1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
 }
